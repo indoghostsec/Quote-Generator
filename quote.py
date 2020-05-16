@@ -23,7 +23,7 @@ try:
 	import requests
 	
 except:
-	os.system("pkg install requests")
+	os.system("pip2 install requests")
 	
 
 
